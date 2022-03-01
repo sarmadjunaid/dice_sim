@@ -1,0 +1,4 @@
+engineering-notation==0.6.0
+Pillow==9.0.1
+tk==0.1.0
+tk-tools==0.14.0
